@@ -1,4 +1,4 @@
-# Quick fix for "multiple WiFi libraries" issue on Arduino IDE
+# ESP32: Quick fix for "multiple WiFi libraries" issue on Arduino IDE
 #include &lt;WiFi32.h> instead of #include &lt;WiFi.h> as it collides with the built-in arduino library
 
 # How to install ?
