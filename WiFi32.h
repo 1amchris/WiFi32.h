@@ -1,3 +1,3 @@
 #ifndef __WIFI32.h__
-#include "./Wifi.h"
+#include "./WiFi.h"
 #endif // __WIFI32.h__
